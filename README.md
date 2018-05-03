@@ -46,6 +46,6 @@ The project consists of two parts
 
 ## Co-authors
 
-**Tushar Kadam** - *Initial work* - [Cis-pie](https://github.com/Kadam-Tushar)
+**Tushar Kadam**  - [Cis-pie](https://github.com/Kadam-Tushar)
 
 
