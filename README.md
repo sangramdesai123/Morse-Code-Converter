@@ -13,7 +13,8 @@ Read This :https://en.wikipedia.org/wiki/Morse_code
 
 ### Getting Started
 
-This project is written in JAVA using NetBeans IDE
+This project is written in JAVA using NetBeans IDE In these project user can log in or can create new account
+and get into conversion of text and images
 
 
 
