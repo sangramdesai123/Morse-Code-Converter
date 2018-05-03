@@ -31,9 +31,9 @@ The project consists of two parts
 
     Files ending with .java file are files which consist core logic. 
 
-    EnglishToMorse.java and MorseToEnglish.java are files that convert normal English text to Morse Code and vice-versa 
-
-    chk.java is a file which will convert an image into Black and White image and determine if there are any dashes or dots in the image       and count them(Because Morse contains only dashes and dots).
+    EnglishToMorse.java and MorseToEnglish.java are files that convert normal English text to Morse Code and
+    vice-versa chk.java is a file which will convert an image into Black and White image and determine if
+    there are any dashes or dots in the image and count them(Because Morse contains only dashes and dots).
 
 **Test image**: This is hand written morse code given as user
 
