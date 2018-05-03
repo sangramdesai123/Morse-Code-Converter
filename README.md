@@ -1,13 +1,8 @@
 # Morse-Code-Converter
-    java code to convert morse code to text and voice from text and image 
+    Java project for  converting Morse Code from Images into english words with their audio output.
     
     API Used: freetts-1.2.2-bin
     Text Editor: Netbeans
-
-
-#  Morse-Code-Reader
-Java based GUI for converting Morse-Code Images into English Strings and Voice 
-
 
 
 
@@ -19,21 +14,19 @@ Read This :https://en.wikipedia.org/wiki/Morse_code
 ### Getting Started
 
 This project is written in JAVA using NetBeans IDE
-Actual core logic files are present in this path= Morse-Code-Reader/Project/MorseCode/MorseCodenew/src/
-
 
 
 
 The project consists of two parts 
 
-1.GUI designing
+**1.GUI designing**
 
 
     You will get different JForms used here for designing GUI
 
     All the files ending with .form are just GUI files 
     
-2. Core Logic of Program:
+**2. Core Logic of Program:**
 
     Files ending with .java file are files which consist core logic. 
 
@@ -41,4 +34,9 @@ The project consists of two parts
 
     chk.java is a file which will convert an image into Black and White image and determine if there are any dashes or dots in the image       and count them(Because Morse contains only dashes and dots).
 
-Test image
+**Test image**: This is hand written morse code given as user
+
+![Morse code Mapping ](https://github.com/sangramdesai123/Morse-Code-Converter/blob/master/alex.PNG)
+
+**Output**: **alex**
+
