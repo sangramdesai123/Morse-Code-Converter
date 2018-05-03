@@ -39,5 +39,13 @@ The project consists of two parts
 
 ![Morse code Mapping ](https://github.com/sangramdesai123/Morse-Code-Converter/blob/master/alex.PNG)
 
-**Output**: **alex**
+**Output**: Alex
+
+
+
+
+## Co-authors
+
+**Tushar Kadam** - *Initial work* - [Cis-pie](https://github.com/Kadam-Tushar)
+
 
