@@ -9,13 +9,10 @@
 ### What is Morse Code ?
 Read This :https://en.wikipedia.org/wiki/Morse_code
 
-![Morse code Mapping ](https://i.ytimg.com/vi/WL3ZDglOlS4/maxresdefault.jpg)
-
 ### Getting Started
 
 This project is written in JAVA using NetBeans IDE In these project user can log in or can create new account
 and get into conversion of text and images
-
 
 
 The project consists of two parts 
@@ -35,11 +32,29 @@ The project consists of two parts
     vice-versa chk.java is a file which will convert an image into Black and White image and determine if
     there are any dashes or dots in the image and count them(Because Morse contains only dashes and dots).
 
-**Test image**: This is hand written morse code given as user
+#  Morse-Code-Reader
+Java based GUI for converting Morse-Code Images into English Strings and Voice 
 
-![Morse code Mapping ](https://github.com/sangramdesai123/Morse-Code-Converter/blob/master/alex.PNG)
+![Image](https://github.com/Kadam-Tushar/Morse-Code-Reader/blob/master/output_ulrQtq.gif)
 
-**Output**: Alex
+
+
+
+[EnglishToMorse.java](https://github.com/Kadam-Tushar/Morse-Code-Reader/blob/master/Project/MorseCode/MorseCodenew/src/EnglishToMorse.java) and [MorseToEnglish.java](https://github.com/Kadam-Tushar/Morse-Code-Reader/blob/master/Project/MorseCode/MorseCodenew/src/MorseToEnglish.java) are files that convert normal English text to Morse Code and vice-versa 
+
+[chk.java](https://github.com/Kadam-Tushar/Morse-Code-Reader/blob/master/Project/MorseCode/MorseCodenew/src/chk.java) is a file which will convert an image into Black and White image and determine if there are any dashes or dots in the image       and count them(Because Morse contains only dashes and dots).
+
+**So basically flow of the project is explained in following image:**
+
+
+
+![Flow Image](https://github.com/Kadam-Tushar/Morse-Code-Reader/blob/master/final.png)
+
+
+**This is conversion window designed using Jforms**
+
+![I1](https://github.com/Kadam-Tushar/Morse-Code-Reader/blob/master/work.JPG)
+
 
 
 
